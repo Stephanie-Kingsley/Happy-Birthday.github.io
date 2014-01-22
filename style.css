@@ -39,14 +39,3 @@ img {
 div {
 	padding-bottom: 40px;
 }
-
-div.shadow {
- float:left;
- background: url(dropshadow.gif) no-repeat bottom right;
- margin: 10px 10px 10px 10px;
-}
-div.shadow img {
-  position: relative;
-  display: block;
-  margin: -3px 6px 6px -3px;
-}
